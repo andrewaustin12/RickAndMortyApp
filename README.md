@@ -4,4 +4,4 @@
 
   * Written in Swift
   * Unit Tested
-  * 
+  * REST API
